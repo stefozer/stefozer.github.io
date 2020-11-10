@@ -1,0 +1,9 @@
+h1 {
+	font-family:"Times New Roman",Ariel,Times;
+	text-allign:center;
+}
+
+p {
+	font-family:Verdana,Helvetica,San-serif;
+	text-allign:center;
+}
